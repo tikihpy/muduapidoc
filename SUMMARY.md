@@ -14,7 +14,7 @@
   * [修改观看页信息](pin-dao-xin-xi-api/xiu-gai-guan-kan-ye-xin-xi.md)
   * [删除频道](pin-dao-xin-xi-api/shan-chu-pin-dao.md)
   * [频道定制观看页地址](pin-dao-xin-xi-api/pin-dao-ding-zhi-guan-kan-ye-di-zhi.md)
-* 频道管理API
+* [频道管理API](pin-dao-guan-li-api.md)
   * [自定义菜单](zi-ding-yi-cai-dan.md)
     * [设置频道自定义菜单](she-zhi-pin-dao-zi-ding-yi-cai-dan.md)
     * [获取频道自定义菜单](huo-qu-pin-dao-zi-ding-yi-cai-dan.md)
@@ -23,7 +23,7 @@
   * [直播流推送](zhi-bo-liu-tui-song.md)
     * [禁止直播流推送](zhi-bo-liu-tui-song/jin-zhi-zhi-bo-liu-tui-song.md)
     * [恢复直播流推送](zhi-bo-liu-tui-song/hui-fu-zhi-bo-liu-tui-song.md)
-  * 频道授权API
+  * [频道授权API](pin-dao-shou-quan-api.md)
     * [设置频道授权观看](she-zhi-pin-dao-shou-quan-guan-kan.md)
     * [获取频道授权观看](huo-qu-pin-dao-shou-quan-guan-kan.md)
     * [自定义授权](zi-ding-yi-shou-quan.md)

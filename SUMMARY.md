@@ -7,7 +7,7 @@
   * [设置通知URL](shou-ye/she-zhi-tong-zhi-url.md)
   * [获取通知URL](shou-ye/huo-qu-tong-zhi-url.md)
 * [频道信息API](pin-dao-xin-xi-api.md)
-  * 创建频道
+  * [创建频道](pin-dao-xin-xi-api/chuang-jian-pin-dao.md)
   * 获取频道列表
   * 获取指定频道信息
   * 修改频道信息
@@ -19,10 +19,10 @@
     * 设置频道自定义菜单
     * 获取频道自定义菜单
     * 删除频道自定义菜单
-  * 直播文档
+  * [上传文档](zhi-bo-wen-dang.md)
   * [直播流推送](zhi-bo-liu-tui-song.md)
-    * 禁止直播流推送
-    * 恢复直播流推送
+    * [禁止直播流推送](zhi-bo-liu-tui-song/jin-zhi-zhi-bo-liu-tui-song.md)
+    * [恢复直播流推送](zhi-bo-liu-tui-song/hui-fu-zhi-bo-liu-tui-song.md)
   * 频道授权API
     * 设置频道授权观看
     * 获取频道授权观看
@@ -56,14 +56,14 @@
   * 观众禁言
   * 发布官方评论
 * [媒体库API](mei-tiku-api.md)
-  * 新增视频
-  * 视频转码通知
+  * [上传视频](mei-tiku-api/xin-zeng-shi-pin.md)
   * 获取视频列表
+  * 视频转码通知
   * 获取暂存视频列表
   * 获取指定视频信息
   * 修改视频信息
   * 删除视频
   * 移动暂存视频到媒体库
 * [账户API](zhang-hu-api.md)
-  * 获取临时token API
+  * [获取临时token API](zhang-hu-api/huo-qu-lin-shi-token-api.md)
 

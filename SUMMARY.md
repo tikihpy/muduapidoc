@@ -9,11 +9,11 @@
 * [频道信息API](pin-dao-xin-xi-api.md)
   * [创建频道](pin-dao-xin-xi-api/chuang-jian-pin-dao.md)
   * [获取频道列表](pin-dao-xin-xi-api/huo-qu-pin-dao-lie-biao.md)
-  * 获取指定频道信息
-  * 修改频道信息
-  * 修改观看页信息
-  * 删除频道
-  * 频道定制观看页地址
+  * [获取指定频道信息](pin-dao-xin-xi-api/huo-qu-zhi-ding-pin-dao-xin-xi.md)
+  * [修改频道信息](pin-dao-xin-xi-api/xiu-gai-pin-dao-xin-xi.md)
+  * [修改观看页信息](pin-dao-xin-xi-api/xiu-gai-guan-kan-ye-xin-xi.md)
+  * [删除频道](pin-dao-xin-xi-api/shan-chu-pin-dao.md)
+  * [频道定制观看页地址](pin-dao-xin-xi-api/pin-dao-ding-zhi-guan-kan-ye-di-zhi.md)
 * 频道管理API
   * 自定义菜单
     * 设置频道自定义菜单

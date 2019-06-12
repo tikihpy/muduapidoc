@@ -1,22 +1,24 @@
-# 创建新频道 {#创建新频道}
+# 修改频道信息 {#修改频道信息}
 
 #### 请求header {#请求header}
 
 ```
-POST /v1/activities
+PUT /v1/activities/{频道id}
 Authorization:Bearer {ACCESS TOKEN}
 Content-Type:application/json
 ```
 
-注：`请将上方的{ACCESS TOKEN}替换为您的ACCESS TOKEN`
+注：
+
+`请将上方的{ACCESS TOKEN}替换为您的ACCESS TOKEN`
+
+`请将"{频道id}"替换您需要获取的频道id`
 
 #### 请求payload {#请求payload}
 
 ```
 {
-    "name" : "测试频道", 
-    "start_time" : "2016-08-09 10:00:00",
-    "act_manager_id" : 233
+    "name" : "测试频道"
 }
 ```
 
@@ -25,15 +27,13 @@ Content-Type:application/json
 | 参数 | 参数说明 | 参数类型 | 是否必填 |
 | :--- | :--- | :--- | :--- |
 | name | 频道名称 | string | 是 |
-| start\_time | 直播开始时间 | datetime | 否 |
-| act\_manager\_id | 频道管理员ID | integer | 否 |
 
 #### 返回 {#返回}
 
 ```
 {
   "id": 4133,
-  "name": "测试频道",
+  "name": "修改后的测试频道",
   "create_at": "2016-08-09 10:33:51",
   "live_status": 0,
   "watch_url": {
@@ -51,7 +51,7 @@ Content-Type:application/json
     "live_img": "http://mudu.tv/assets/console/images/livecoverimg.jpg",
     "footer": "技术支持：目睹直播技术开发团队"
   },
-  "rtmp_publish_addr": "rtmp://pub.mudu.tv/watch/jy1jk3",
+  "rtmp_publish_addr": "rtmp://video.mudu.tv/watch/jy1jk3",
   "hls_play_addr": "http://live.mudu.tv/watch/jy1jk3.m3u8",
   "rtmp_play_addr": "rtmp://live.mudu.tv/watch/jy1jk3"
 }

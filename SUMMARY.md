@@ -8,7 +8,7 @@
   * [获取通知URL](shou-ye/huo-qu-tong-zhi-url.md)
 * [频道信息API](pin-dao-xin-xi-api.md)
   * [创建频道](pin-dao-xin-xi-api/chuang-jian-pin-dao.md)
-  * 获取频道列表
+  * [获取频道列表](pin-dao-xin-xi-api/huo-qu-pin-dao-lie-biao.md)
   * 获取指定频道信息
   * 修改频道信息
   * 修改观看页信息

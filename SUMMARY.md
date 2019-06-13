@@ -42,28 +42,28 @@
   * [获取账户时长消费流水](pin-dao-zi-jin-shu-ju-api/huo-qu-zhang-hu-shi-chang-xiao-fei-liu-shui.md)
   * [获取账户流量消费流水](pin-dao-zi-jin-shu-ju-api/huo-qu-zhang-hu-liu-liang-xiao-fei-liu-shui.md)
 * [频道数据API](pin-dao-shu-ju-api.md)
-  * 获取频道数据报表
-  * 获取频道观众列表V2
-  * 获取频道观众列表
-  * 获取观众观看流水V2
-  * 获取观众观看流水
-  * 获取频道报名数据
+  * [获取频道数据报表](pin-dao-shu-ju-api/huo-qu-pin-dao-shu-ju-bao-biao.md)
+  * [获取频道观众列表V2](pin-dao-shu-ju-api/huo-qu-pin-dao-guan-zhong-lie-biao-v2.md)
+  * [获取频道观众列表](pin-dao-shu-ju-api/huo-qu-pin-dao-guan-zhong-lie-biao.md)
+  * [获取观众观看流水V2](pin-dao-shu-ju-api/huo-qu-guan-zhong-guan-kan-liu-shui-v2.md)
+  * [获取观众观看流水](pin-dao-shu-ju-api/huo-qu-guan-zhong-guan-kan-liu-shui.md)
+  * [获取频道报名数据](pin-dao-shu-ju-api/huo-qu-pin-dao-bao-ming-shu-ju.md)
 * [评论API](ping-lun-api.md)
-  * 获取评论数
-  * 获取评论列表
-  * 删除评论
-  * 设置评论置顶
-  * 观众禁言
-  * 发布官方评论
+  * [获取评论数](ping-lun-api/huo-qu-ping-lun-shu.md)
+  * [获取评论列表](ping-lun-api/huo-qu-ping-lun-lie-biao.md)
+  * [删除评论](ping-lun-api/shan-chu-ping-lun.md)
+  * [设置评论置顶](ping-lun-api/she-zhi-ping-lun-zhi-ding.md)
+  * [观众禁言](ping-lun-api/guan-zhong-jin-yan.md)
+  * [发布官方评论](ping-lun-api/fa-bu-guan-fang-ping-lun.md)
 * [媒体库API](mei-tiku-api.md)
   * [上传视频](mei-tiku-api/xin-zeng-shi-pin.md)
-  * 获取视频列表
-  * 视频转码通知
-  * 获取暂存视频列表
-  * 获取指定视频信息
-  * 修改视频信息
-  * 删除视频
-  * 移动暂存视频到媒体库
+  * [视频转码通知](mei-tiku-api/shi-pin-zhuan-ma-tong-zhi.md)
+  * [获取视频列表](mei-tiku-api/huo-qu-shi-pin-lie-biao.md)
+  * [获取暂存视频列表](mei-tiku-api/huo-qu-zan-cun-shi-pin-lie-biao.md)
+  * [获取指定视频信息](mei-tiku-api/huo-qu-zhi-ding-shi-pin-xin-xi.md)
+  * [修改视频信息](mei-tiku-api/xiu-gai-shi-pin-xin-xi.md)
+  * [删除视频](mei-tiku-api/shan-chu-shi-pin.md)
+  * [移动暂存视频到媒体库](mei-tiku-api/yi-dong-zan-cun-shi-pin-dao-mei-ti-ku.md)
 * [账户API](zhang-hu-api.md)
   * [获取临时token API](zhang-hu-api/huo-qu-lin-shi-token-api.md)
 

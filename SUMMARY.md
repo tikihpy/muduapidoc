@@ -34,9 +34,9 @@
     * [创建管理员](zi-zhang-hao-guan-li-yuan/chuang-jian-guan-li-yuan.md)
     * [删除管理员](zi-zhang-hao-guan-li-yuan/shan-chu-guan-li-yuan.md)
 * [资金流水API](pin-dao-zi-jin-shu-ju-api.md)
-  * 获取频道资金流水
-  * 获取频道打赏流水
-  * 获取频道发红包/抢红包记录
+  * [获取频道资金流水](pin-dao-zi-jin-shu-ju-api/huo-qu-pin-dao-zi-jin-liu-shui.md)
+  * [获取频道打赏流水](pin-dao-zi-jin-shu-ju-api/huo-qu-pin-dao-da-shang-liu-shui.md)
+  * [获取频道发红包/抢红包记录](pin-dao-zi-jin-shu-ju-api/huo-qu-pin-dao-fa-hong-5305-qiang-hong-bao-ji-lu.md)
   * 获取频道付费流水
   * 获取账户资金流水
   * 获取账户时长消费流水
@@ -66,6 +66,4 @@
   * 移动暂存视频到媒体库
 * [账户API](zhang-hu-api.md)
   * [获取临时token API](zhang-hu-api/huo-qu-lin-shi-token-api.md)
-
-
 
